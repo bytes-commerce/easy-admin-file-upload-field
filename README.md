@@ -27,5 +27,5 @@ yield FileField::new('filename', t('File'))
 
 And you're done.
 
-Proudly presented by [Bytes Commerce](https://bytescommerce.com) :sparkle:
+Proudly presented by [Bytes Commerce UG](https://www.bytes-commerce.de) :sparkle:
 
